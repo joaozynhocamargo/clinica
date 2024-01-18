@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/01/12 21:39:47.000.058,=C:\Users\joaoz\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/12 21:40:43.000.484,D:\Devop\Delphi\Clinica\Unit1.dfm=C:\Users\joaoz\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/01/12 21:40:43.000.484,D:\Devop\Delphi\Clinica\Unit1.pas=C:\Users\joaoz\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/12 21:41:11.000.544,D:\Devop\Delphi\Clinica\Clinica.dproj=C:\Users\joaoz\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/01/12 22:24:09.000.988,=D:\Devop\Delphi\Clinica\Unit2.pas</Transaction>
+    <Transaction>2024/01/12 22:25:00.000.207,=D:\Devop\Delphi\Clinica\Unit3.pas</Transaction>
+    <Transaction>2024/01/12 22:25:17.000.165,D:\Devop\Delphi\Clinica\UnitAgenda.pas=D:\Devop\Delphi\Clinica\Unit3.pas</Transaction>
+    <Transaction>2024/01/12 22:25:17.000.165,D:\Devop\Delphi\Clinica\UnitAgenda.dfm=D:\Devop\Delphi\Clinica\Unit3.dfm</Transaction>
+    <Transaction>2024/01/13 10:26:08.000.181,=D:\Devop\Delphi\Clinica\Unit3.pas</Transaction>
+    <Transaction>2024/01/13 10:33:37.000.065,D:\Devop\Delphi\Clinica\Unit3.pas=D:\Devop\Delphi\Clinica\UnitDM.pas</Transaction>
+    <Transaction>2024/01/13 10:33:37.000.065,D:\Devop\Delphi\Clinica\Unit3.dfm=D:\Devop\Delphi\Clinica\UnitDM.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
